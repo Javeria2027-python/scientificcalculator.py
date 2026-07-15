@@ -30,5 +30,7 @@ while True:
         if choice == "r":
             num = math.radians(num)
             print("Result:",math.cos(num))
-    else:
-         print("Invalid Operator")                 
+        else:
+            print("Invalid operator")
+            
+                               
